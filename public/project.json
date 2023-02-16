@@ -1,0 +1,35 @@
+[
+   {
+      "id": "1",
+      "name": "Bike",
+      "img": "https://i.ibb.co/Zhmv7yz/Screenshot-156.png",
+      "title": "– It’s a secondhand bike reseller web site",
+      "about": "It’s a full responsive web site. Here is admin route. Admin can control this web site & all users. A user can choose his or her role as buyer or seller. Buyer Onley buy product by card payment. Seller can add product for sell & can advertise any product. Admin can change any role as seller or buyer and verify any seller. Verified sellers will get blue tick for selling product.",
+      "front_end": " I use here JavaScript (ES6), React, React-router-dom, React-hook-form, React-query, React-stripe (for payment), react-day-picker, firebase (authentication), CSS, Tailwind CSS, daisyUI (tailwind CSS component), ",
+      "back_end": " Node.js, Express JS, MongoDB, JsonWebToken, cors, Stripe, vercel.",
+      "live": "https://bike-4.web.app/",
+      "code": "https://github.com/naimur-r61/Bike"
+   },
+   {
+      "id": "2",
+      "name": "Tour",
+      "img": "https://i.ibb.co/DKGMQJx/Screenshot-157.png",
+      "live": "https://tour-58294.web.app/",
+      "code": "https://github.com/naimur-r61/Tour",
+      "title": "- Tourist packages website ",
+      "about": "It’s a full responsive web site with many packages for world tour.Anybody can see package details without log in but if you check out you must log in.Here have review about tour packages and tour team, also you can shear your opinion in review box but you have to log in first.",
+      "front_end": "I use here JavaScript(ES6), React, React - router - dom, React - photo - view, React - typewriter - effect, react - day - picker, firebase(authentication), CSS, Tailwind CSS, daisyUI(tailwind CSS component),",
+      "back_end": " Node.js, Express JS, MongoDB, JsonWebToken, cors, vercel."
+   },
+   {
+      "id": "3",
+      "name": "Coder",
+      "img": "https://i.ibb.co/DwQs0cf/Screenshot-158.png",
+      "live": "https://coder-538eb.web.app/",
+      "code": "https://github.com/naimur-r61/Coder",
+      "title": " - Online programming course related website ",
+      "about": "Here has many categories the course.The course details without log in but if you check out you must log in.",
+      "front_end": " I use here JavaScript(ES6), React, React - router - dom, firebase(authentication), CSS, Bootstrap,",
+      "back_end": " Node.js, MongoDB, Express JS, cors, vercel."
+   }
+]

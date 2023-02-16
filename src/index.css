@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Acme&family=Concert+One&family=Kalam:wght@700&family=Open+Sans&family=Pacifico&family=Permanent+Marker&family=Philosopher:wght@700&family=Poppins:wght@600&family=Signika:wght@700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	margin: 0;
+	font-family: "Philosopher", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
