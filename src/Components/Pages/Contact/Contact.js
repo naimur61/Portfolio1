@@ -1,7 +1,7 @@
 import React, { useRef } from "react";
 import emailjs from "@emailjs/browser";
 import './Contact.css'
-import contact from '../../../assets/logo/support.gif'
+import contact from '../../../assets/gif/support.gif'
 
 
 

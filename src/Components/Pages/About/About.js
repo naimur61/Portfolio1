@@ -1,6 +1,6 @@
 import React from 'react';
 import Language from '../Home/Language';
-import img from '../../../assets/logo/coding.gif'
+import img from '../../../assets/gif/coding.gif'
 
 const About = () => {
    return (
